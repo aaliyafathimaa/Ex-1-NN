@@ -121,7 +121,11 @@ print("\nLenght of X_test ",len(X_test))
 
 ## OUTPUT:
 Data checking:
+
+
 ![image](https://github.com/user-attachments/assets/0055e2ed-38a0-4200-9ea2-4a4974306d34)
+
+
 
 Missing Data:
 ![image](https://github.com/user-attachments/assets/6fc77ef9-e6a6-4121-b4f5-9a21aa577cd8)
