@@ -120,8 +120,32 @@ print("\nLenght of X_test ",len(X_test))
 
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+Data checking:
+![image](https://github.com/user-attachments/assets/0055e2ed-38a0-4200-9ea2-4a4974306d34)
 
+Missing Data:
+![image](https://github.com/user-attachments/assets/6fc77ef9-e6a6-4121-b4f5-9a21aa577cd8)
+
+Duplicates identification:
+![image](https://github.com/user-attachments/assets/8e6df892-7960-41fc-bf9b-badc4815a5b7)
+
+Vakues of 'Y':
+![image](https://github.com/user-attachments/assets/f191ce8f-fee7-4d52-8bf9-ac23216c779d)
+
+Outliers:
+![image](https://github.com/user-attachments/assets/43327fd8-caac-437a-9d2a-ff3561b0f3d0)
+
+Checking datasets after dropping string values data from dataset:
+![image](https://github.com/user-attachments/assets/817d2885-860e-42bc-a56e-8525016d0d86)
+
+Normalize the dataset:
+![image](https://github.com/user-attachments/assets/cb4dda27-ff4b-4621-9972-eca3c7f3ec71)
+
+Split the dataset:
+![image](https://github.com/user-attachments/assets/6b17dc25-86ec-4961-a6c9-bce4aecb7711)
+
+Training and testing model:
+![image](https://github.com/user-attachments/assets/e4c0b96d-6795-4548-a09a-b489dfb12a68)
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
