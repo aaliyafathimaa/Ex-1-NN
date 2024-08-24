@@ -102,8 +102,6 @@ print(df1)
 ```
 Split the dataset
 ```
-Split the dataset
-```
 X=df.iloc[:,:-1].values
 y=df.iloc[:,-1].values
 print(X)
@@ -119,6 +117,7 @@ print("\nX_test\n")
 print(X_test)
 print("\nLenght of X_test ",len(X_test))
 ```
+
 
 ## OUTPUT:
 SHOW YOUR OUTPUT HERE
